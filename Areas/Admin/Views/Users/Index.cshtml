@@ -6,14 +6,17 @@
 <h2> Users</h2>
 
 <br> 
-
+@if (TempData["success"] != null)
+{
+    <div class="alert alert-success">@TempData["success"]</div>
+}
 <div class="card">
     <div class="row">
         <div class="col-6">
             <h2 class="card-title"> All Users </h2>
         </div>
         <div class="col-6 text-right">
-            <a asp-area="Identity" asp-page="/Account/Register" class="btn btn-info"> Create New User </a>
+            <a asp-area="Admin" asp-controller="Users" asp-action="Create" class="btn btn-info">Create New User</a>
         </div>
     </div>
     <br>
@@ -41,12 +44,13 @@
                             @Html.DisplayFor(modelItem => item.Email)
                         </td>
                         <td>
-                            <a asp-area="Admin" asp-controller="User" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary"> Edit </a>
-                            <a asp-area="Admin" asp-controller="User" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger"> Delete </a>
+                            <a asp-area="Admin" asp-controller="Users" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary"> Edit </a>
+                            <a asp-area="Admin" asp-controller="Users" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger"> Delete </a>
                         </td>
                     </tr>
                 }
             </tbody>
         </table>
+</div>
 </div>
 
