@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Fast_Food_Delievery.Models.User>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<h2> Users</h2>
+
+<br> 
+
+<div class="card">
+    <div class="row">
+        <div class="col-6">
+            <h2 class="card-title"> All Users </h2>
+        </div>
+        <div class="col-6 text-right">
+            <a asp-area="Identity" asp-page="/Account/Register" class="btn btn-info"> Create New User </a>
+        </div>
+    </div>
+    <br>
+    <div class="card-body">
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.First().Id)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.First().Email)
+                    </th>
+                    <th> Actions </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Id)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Email)
+                        </td>
+                        <td>
+                            <a asp-area="Admin" asp-controller="User" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary"> Edit </a>
+                            <a asp-area="Admin" asp-controller="User" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger"> Delete </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+</div>
+

@@ -1,0 +1,126 @@
+wwwroot\Assets\Images\Items\ec03d374-1c48-4c8c-a152-1aec612f18d5.jpg
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+I:\Fast Food Delievery\wwwroot\css\site.css
+I:\Fast Food Delievery\wwwroot\favicon.ico
+I:\Fast Food Delievery\wwwroot\js\site.js
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+I:\Fast Food Delievery\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+I:\Fast Food Delievery\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+I:\Fast Food Delievery\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+I:\Fast Food Delievery\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+I:\Fast Food Delievery\wwwroot\lib\jquery-validation\dist\additional-methods.js
+I:\Fast Food Delievery\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+I:\Fast Food Delievery\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+I:\Fast Food Delievery\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+I:\Fast Food Delievery\wwwroot\lib\jquery-validation\LICENSE.md
+I:\Fast Food Delievery\wwwroot\lib\jquery\dist\jquery.js
+I:\Fast Food Delievery\wwwroot\lib\jquery\dist\jquery.min.js
+I:\Fast Food Delievery\wwwroot\lib\jquery\dist\jquery.min.map
+I:\Fast Food Delievery\wwwroot\lib\jquery\dist\jquery.slim.js
+I:\Fast Food Delievery\wwwroot\lib\jquery\dist\jquery.slim.min.js
+I:\Fast Food Delievery\wwwroot\lib\jquery\dist\jquery.slim.min.map
+I:\Fast Food Delievery\wwwroot\lib\jquery\LICENSE.txt
