@@ -101,6 +101,10 @@ namespace Fast_Food_Delievery.Areas.Identity.Pages.Account
             public string ConfirmPassword { get; set; }
 
 
+            public string FullName { get; set; }
+            public string City { get; set; }
+            public string Address { get; set; }
+            public string PostalCode { get; set; }
         }
 
 
@@ -117,7 +121,10 @@ namespace Fast_Food_Delievery.Areas.Identity.Pages.Account
             if (ModelState.IsValid)
             {
                 var user = CreateUser();
-
+                user.FullName = Input.FullName;
+                user.City = Input.City;
+                user.Address = Input.Address;
+                user.PostalCode = Input.PostalCode;
                 await _userStore.SetUserNameAsync(user, Input.Email, CancellationToken.None);
                 await _emailStore.SetEmailAsync(user, Input.Email, CancellationToken.None);
                 var result = await _userManager.CreateAsync(user, Input.Password);

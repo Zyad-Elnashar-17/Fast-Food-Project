@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Fast_Food_Delievery.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20251017230611_afteradminrole")]
-    partial class afteradminrole
+    [Migration("20251018150910_RolesUpdated")]
+    partial class RolesUpdated
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

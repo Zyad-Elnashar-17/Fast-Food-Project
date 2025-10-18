@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace Fast_Food_Delievery.Migrations
 {
     /// <inheritdoc />
-    public partial class afteradminrole : Migration
+    public partial class RolesUpdated : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
