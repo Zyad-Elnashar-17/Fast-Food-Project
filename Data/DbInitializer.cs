@@ -19,10 +19,7 @@ namespace Fast_Food_Delievery.Data
 
         public void Initialize()
         {
-            if (_context.Database.GetPendingMigrations().Any())
-            {
-                _context.Database.Migrate();
-            }
+           
 
             if (!_roleManager.RoleExistsAsync("Admin").GetAwaiter().GetResult())
             {
