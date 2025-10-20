@@ -1,3 +1,11 @@
+wwwroot\Assets\Images\Items\01b47c49-f573-4345-8d10-e5f6b69f37e1.jpg
+wwwroot\Assets\Images\Items\268e04d1-7e12-4551-bb9b-b09a36c6b979.jpg
+wwwroot\Assets\Images\Items\35e00d6a-ad28-41b7-8667-acfe917ed35b.jpg
+wwwroot\Assets\Images\Items\5d03ab87-e671-4534-874d-db181985b700.jpg
+wwwroot\Assets\Images\Items\5df99455-758c-4883-baaa-a072533e8858.jpg
+wwwroot\Assets\Images\Items\657cde14-09c5-4205-bc09-e0c138c57681.jpg
+wwwroot\Assets\Images\Items\7d75fbe1-4eeb-4b34-9972-311560602f66.jpg
+wwwroot\Assets\Images\Items\cdff3281-b1fa-441b-9fc2-6e92929ec52a.jpg
 wwwroot\Assets\Images\Items\ec03d374-1c48-4c8c-a152-1aec612f18d5.jpg
 wwwroot\css\site.css
 wwwroot\favicon.ico

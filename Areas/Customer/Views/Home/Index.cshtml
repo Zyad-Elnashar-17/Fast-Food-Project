@@ -1,0 +1,125 @@
+﻿@model Fast_Food_Delievery.ViewModel.ItemListViewModel
+
+@{
+    ViewData["Title"] = "Shop";
+}
+
+<div class="container mt-4">
+    <div class="text-center mb-5">
+        <h1 class="fw-bold">🍔 Fast Food Store</h1>
+        <p class="text-muted">Choose your favorite meal and enjoy the offer!</p>
+    </div>
+
+    @if (Model.Vouchers != null && Model.Vouchers.Any())
+    {
+        <div class="alert alert-success text-center">
+            <h5 class="fw-bold mb-3">🔥 Active Offers 🔥</h5>
+            <div class="d-flex flex-wrap justify-content-center gap-3">
+                @foreach (var voucher in Model.Vouchers)
+                {
+                    <div class="border rounded p-3 bg-light">
+                        <strong>@voucher.Title</strong> —
+                        @if (voucher.Type == Fast_Food_Delievery.Models.VoucherType.Percent)
+                        {
+                            <span>@voucher.Discount % OFF</span>
+                        }
+                        else
+                        {
+                            <span>@voucher.Discount EGP OFF</span>
+                        }
+                        <br />
+                        <small class="text-muted">Use Code: <strong>@voucher.code</strong></small>
+                    </div>
+                }
+            </div>
+        </div>
+    }
+
+    @foreach (var category in Model.Categories)
+    {
+        var itemsInCategory = Model.Items.Where(i => i.CategoryId == category.Id).ToList();
+        if (itemsInCategory.Any())
+        {
+            <div class="mt-5">
+                <h3 class="border-bottom pb-2 text-primary">@category.Title</h3>
+                <div class="row g-4 mt-3">
+                    @foreach (var item in itemsInCategory)
+                    {
+                        <div class="col-md-3 col-sm-6">
+                            <div class="card h-100 shadow-sm">
+                                <img src="@(string.IsNullOrEmpty(item.ImageUrl) ? "/images/noimage.png" : item.ImageUrl)"
+                                     class="card-img-top" alt="@item.Name" style="height:200px; object-fit:cover;">
+                                <div class="card-body d-flex flex-column">
+                                    <h5 class="card-title">@item.Name</h5>
+                                    <p class="card-text text-muted small">@item.Description</p>
+
+                                    <div class="mt-auto">
+                                        <h6 class="fw-bold text-success mb-2">@item.Price.ToString("0.00") EGP</h6>
+
+                                        <form asp-action="Details"
+                                              asp-controller="Home"
+                                              asp-area="Customer"
+                                              method="post"
+                                              class="d-inline">
+                                            @Html.AntiForgeryToken()
+                                            <input type="hidden" name="ItemId" value="@item.Id" />
+                                            <input type="hidden" name="Count" value="1" />
+                                            <button type="button" class="btn btn-sm btn-success mt-2 w-100 add-to-cart" data-id="@item.Id">
+                                                Add to Cart
+                                            </button>
+                                        </form>
+
+                                        <a asp-area="Customer"
+                                           asp-controller="Home"
+                                           asp-action="Details"
+                                           asp-route-id="@item.Id"
+                                           class="btn btn-sm btn-outline-primary mt-2 w-100">
+                                            View Details
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        }
+    }
+
+    @if (Model.Items == null || !Model.Items.Any())
+    {
+        <div class="text-center mt-5">
+            <h4 class="text-muted">😔 No items available at the moment</h4>
+        </div>
+    }
+</div>
+
+
+
+
+
+
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $(".add-to-cart").click(function () {
+                var itemId = $(this).data("id");
+
+                $.ajax({
+                    url: '@Url.Action("AddToCart", "Home", new { area = "Customer" })',
+                    type: 'POST',
+                    data: { id: itemId },
+                    success: function (response) {
+                        $("#cartCount").text(response.count);
+                        alert("✅ Product added to cart!");
+                    },
+                    error: function () {
+                        alert("⚠️ You must be logged in to add to cart!");
+                    }
+                });
+            });
+        });
+    </script>
+}
+
