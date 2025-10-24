@@ -37,16 +37,16 @@
                     </div>
                 }
 
-                <form method="post" asp-action="Details" class="mt-4">
+                <form id="addToCartForm" class="mt-4">
                     <div class="d-flex align-items-center mb-3">
                         <label asp-for="Count" class="form-label me-2 fw-semibold">Quantity:</label>
-                        <input asp-for="Count" type="number" min="1" value="1" class="form-control w-25 text-center" />
+                        <input asp-for="Count" type="number" min="1" value="1" id="countInput" class="form-control w-25 text-center" />
                     </div>
 
-                    <input type="hidden" asp-for="ItemId" />
+                    <input type="hidden" id="itemId" value="@Model.Item.Id" />
 
                     <div class="d-flex gap-2">
-                        <button type="submit" class="btn btn-success px-4">
+                        <button type="button" id="btnAddToCart" class="btn btn-success px-4">
                             <i class="bi bi-cart-plus"></i> Add to Cart
                         </button>
                         <a asp-action="Index" class="btn btn-outline-secondary px-4">
@@ -58,3 +58,28 @@
         </div>
     </div>
 </div>
+
+
+
+
+@section Scripts {
+    <script>
+        $("#btnAddToCart").click(function () {
+            var itemId = $("#itemId").val();
+            var count = $("#countInput").val();
+
+            $.ajax({
+                url: '@Url.Action("AddToCart", "Home", new { area = "Customer" })',
+                type: 'POST',
+                data: { id: itemId, count: count },
+                success: function (response) {
+                    $("#cartCount").text(response.count);
+                    alert("✅ Product added to cart!");
+                },
+                error: function () {
+                    alert("⚠️ Please login first!");
+                }
+            });
+        });
+    </script>
+}

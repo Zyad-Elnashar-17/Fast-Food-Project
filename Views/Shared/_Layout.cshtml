@@ -38,16 +38,16 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="Admin" asp-controller="Users" asp-action="Index">Users</a>
                         </li>
-
-
-                        <a asp-area="Customer" asp-controller="Cart" asp-action="Index" class="btn btn-outline-primary position-relative">
-                            🛒 Cart
-                            <span id="cartCount" class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
-                                0
-                            </span>
-                        </a>
+                       
+                        <li class="nav-item">
+                            <a asp-area="Customer" asp-controller="Cart" asp-action="Index" class="nav-link position-relative">
+								<i class="fas fa-shopping-cart fa-lg"></i> Cart
+                                @await Component.InvokeAsync("Cart")
+							</a>
+                        </li>
+                        </ul>
                         <ul class="navbar-nav ms-auto">
-                            @if (User.Identity.IsAuthenticated)
+                            @if(User.Identity.IsAuthenticated)
                             {
                                 <li class="nav-item">
                                     <span class="nav-link">Hi, @User.Identity.Name </span>
@@ -68,7 +68,6 @@
                                 </li>
                             }
                         </ul>
-                    </ul>
                 </div>
             </div>
         </nav>
