@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Fast Food Delievery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB8EDC-FC9D-4939-91F0-DE38AA02D68C}|Fast Food Delievery.csproj|i:\\fast food delievery\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB8EDC-FC9D-4939-91F0-DE38AA02D68C}|Fast Food Delievery.csproj|solutionrelative:areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB8EDC-FC9D-4939-91F0-DE38AA02D68C}|Fast Food Delievery.csproj|i:\\fast food delievery\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB8EDC-FC9D-4939-91F0-DE38AA02D68C}|Fast Food Delievery.csproj|solutionrelative:areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB8EDC-FC9D-4939-91F0-DE38AA02D68C}|Fast Food Delievery.csproj|i:\\fast food delievery\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB8EDC-FC9D-4939-91F0-DE38AA02D68C}|Fast Food Delievery.csproj|solutionrelative:areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB8EDC-FC9D-4939-91F0-DE38AA02D68C}|Fast Food Delievery.csproj|i:\\fast food delievery\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB8EDC-FC9D-4939-91F0-DE38AA02D68C}|Fast Food Delievery.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB8EDC-FC9D-4939-91F0-DE38AA02D68C}|Fast Food Delievery.csproj|i:\\fast food delievery\\viewmodel\\itemlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB8EDC-FC9D-4939-91F0-DE38AA02D68C}|Fast Food Delievery.csproj|solutionrelative:viewmodel\\itemlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "I:\\Fast Food Delievery\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ToolTip": "I:\\Fast Food Delievery\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T19:13:07.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "I:\\Fast Food Delievery\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "I:\\Fast Food Delievery\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T19:07:48.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "I:\\Fast Food Delievery\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "I:\\Fast Food Delievery\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-19T21:06:45.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemListViewModel.cs",
+              "DocumentMoniker": "I:\\Fast Food Delievery\\ViewModel\\ItemListViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\ItemListViewModel.cs",
+              "ToolTip": "I:\\Fast Food Delievery\\ViewModel\\ItemListViewModel.cs",
+              "RelativeToolTip": "ViewModel\\ItemListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T20:06:05.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "I:\\Fast Food Delievery\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "I:\\Fast Food Delievery\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T20:03:15.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

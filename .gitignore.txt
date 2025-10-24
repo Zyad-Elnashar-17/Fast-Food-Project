@@ -1,0 +1,6 @@
+# Mapped to the temporary folders you want to ignore
+.vs/
+bin/
+obj/
+# And any other temporary files
+*.suo

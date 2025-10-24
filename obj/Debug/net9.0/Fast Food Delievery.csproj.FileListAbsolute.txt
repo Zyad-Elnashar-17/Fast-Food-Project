@@ -1,0 +1,854 @@
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\appsettings.Development.json
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\appsettings.json
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Fast Food Delievery.staticwebassets.runtime.json
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Fast Food Delievery.staticwebassets.endpoints.json
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Fast Food Delievery.exe
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Fast Food Delievery.deps.json
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Fast Food Delievery.runtimeconfig.json
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Fast Food Delievery.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Fast Food Delievery.pdb
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Azure.Core.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Azure.Identity.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Humanizer.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Build.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Mono.TextTemplating.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\Newtonsoft.Json.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\NuGet.Common.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\NuGet.Configuration.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\NuGet.Frameworks.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\NuGet.LibraryModel.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\NuGet.Packaging.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\NuGet.ProjectModel.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\NuGet.Protocol.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\NuGet.Versioning.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\System.ClientModel.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\System.CodeDom.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\System.Composition.Convention.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\System.Composition.Hosting.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\System.Composition.Runtime.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\System.Composition.TypedParts.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\System.Memory.Data.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\System.Runtime.Caching.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\af\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\ar\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\az\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\bg\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\cs\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\da\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\de\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\el\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\es\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\fa\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\fr\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\he\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\hr\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\hu\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\hy\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\id\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\is\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\it\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\ja\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\ku\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\lv\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\mt\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\nb\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\nl\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\pl\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\pt\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\ro\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\ru\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\sk\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\sl\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\sr\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\sv\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\tr\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\uk\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\vi\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\Fast Food Delievery.csproj.AssemblyReference.cache
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\rpswa.dswa.cache.json
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\Fast Food Delievery.GeneratedMSBuildEditorConfig.editorconfig
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\Fast Food Delievery.AssemblyInfoInputs.cache
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\Fast Food Delievery.AssemblyInfo.cs
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\Fast Food Delievery.csproj.CoreCompileInputs.cache
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\Fast Food Delievery.MvcApplicationPartsAssemblyInfo.cs
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\Fast Food Delievery.MvcApplicationPartsAssemblyInfo.cache
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\Fast Food Delievery.RazorAssemblyInfo.cache
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\Fast Food Delievery.RazorAssemblyInfo.cs
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\rjimswa.dswa.cache.json
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\scopedcss\bundle\Fast Food Delievery.styles.css
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\scopedcss\projectbundle\Fast Food Delievery.bundle.scp.css
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\ofa40bqe71-{0}-b9sayid5wm-b9sayid5wm.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\j9swiz3yzq-{0}-90yqlj465b-90yqlj465b.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\vltxs1u3vm-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\14ipv7q33s-{0}-bqjiyaj88i-bqjiyaj88i.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\rh65p086id-{0}-c2jlpeoesf-c2jlpeoesf.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\eb27mqwgz2-{0}-erw9l3u2r3-erw9l3u2r3.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\9glsckmvxo-{0}-aexeepp0ev-aexeepp0ev.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\hh8ihyobdx-{0}-d7shbmvgxk-d7shbmvgxk.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\bww8ud00yd-{0}-ausgxo2sd3-ausgxo2sd3.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\edcrak57d7-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\sf8kf2lula-{0}-cosvhxvwiu-cosvhxvwiu.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\3tzsqhslk9-{0}-ub07r2b239-ub07r2b239.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\oxk5o6czdw-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\k8b25g0zwc-{0}-b7pk76d08c-b7pk76d08c.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\8axix7wldr-{0}-fsbi9cje9m-fsbi9cje9m.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\d5z9sfpxbi-{0}-rzd6atqjts-rzd6atqjts.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\u8428c4e9i-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\tg53r17ghy-{0}-dxx9fxp4il-dxx9fxp4il.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\nlrl0f3xs3-{0}-jd9uben2k1-jd9uben2k1.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\1fc4q00scq-{0}-khv3u5hwcm-khv3u5hwcm.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\8xykfy6qmd-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\vsrbd71spn-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\cynp17w084-{0}-c2oey78nd0-c2oey78nd0.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\7o8oyvng68-{0}-tdbxkamptv-tdbxkamptv.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\h9vwtoirpy-{0}-j5mq2jizvt-j5mq2jizvt.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\o5k23vqhrk-{0}-06098lyss8-06098lyss8.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\iznc766avz-{0}-nvvlpmu67g-nvvlpmu67g.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\ns4583i71s-{0}-s35ty4nyc5-s35ty4nyc5.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\47012z8l2l-{0}-pj5nd1wqec-pj5nd1wqec.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\4vzefxwp2m-{0}-46ein0sx1k-46ein0sx1k.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\bh4v3mdph9-{0}-v0zj4ognzu-v0zj4ognzu.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\l186vlgaag-{0}-37tfw0ft22-37tfw0ft22.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\rsc7qacj1u-{0}-hrwsygsryq-hrwsygsryq.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\z408qb6q7a-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\qfr28sqcy1-{0}-ft3s53vfgj-ft3s53vfgj.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\0k1i85ntyh-{0}-6cfz1n2cew-6cfz1n2cew.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\xa379ftczi-{0}-6pdc2jztkx-6pdc2jztkx.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\lr5hmrr0j7-{0}-493y06b0oq-493y06b0oq.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\ivy2s9gwh5-{0}-iovd86k7lj-iovd86k7lj.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\higufxz8op-{0}-vr1egmr9el-vr1egmr9el.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\s3tglgz8hr-{0}-kbrnm935zg-kbrnm935zg.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\vw9sls9bhj-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\ym8tkpcl2i-{0}-y7v9cxd14o-y7v9cxd14o.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\zzna4nrm5w-{0}-notf2xhcfb-notf2xhcfb.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\igscs4x0yk-{0}-h1s4sie4z3-h1s4sie4z3.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\zap00c0tb5-{0}-63fj8s7r0e-63fj8s7r0e.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\pogzkicjpz-{0}-0j3bgjxly4-0j3bgjxly4.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\j3hwsq15kh-{0}-47otxtyo56-47otxtyo56.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\q3naettu8c-{0}-4v8eqarkd7-4v8eqarkd7.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\ldxy2n3w6q-{0}-356vix0kms-356vix0kms.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\ypthv7q62w-{0}-83jwlth58m-83jwlth58m.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\t6e3b82hrf-{0}-mrlpezrjn3-mrlpezrjn3.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\uocis9wxbx-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\2tikzqlmtu-{0}-ag7o75518u-ag7o75518u.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\9muusbdg0a-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\tpsq5dibur-{0}-0i3buxo5is-0i3buxo5is.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\t0qo7o574p-{0}-o1o13a6vjx-o1o13a6vjx.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\b9lhb08218-{0}-ttgo8qnofa-ttgo8qnofa.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\a3ygkwa5zy-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\nezrqnk58p-{0}-muycvpuwrr-muycvpuwrr.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\v0zgfp0y55-{0}-87fc7y1x7t-87fc7y1x7t.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\yfc7ypekbg-{0}-mlv21k5csn-mlv21k5csn.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\91pfxm88hs-{0}-b9sayid5wm-b9sayid5wm.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\uqfkvcqwf6-{0}-61n19gt1b8-61n19gt1b8.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\raz00bw2tc-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\ks7zfq8zu8-{0}-bqjiyaj88i-bqjiyaj88i.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\v6n0xt5hsy-{0}-c2jlpeoesf-c2jlpeoesf.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\dfhk0i3b7t-{0}-erw9l3u2r3-erw9l3u2r3.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\59cuz8r7cp-{0}-aexeepp0ev-aexeepp0ev.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\g6smi91776-{0}-d7shbmvgxk-d7shbmvgxk.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\oy1b3wzjs3-{0}-ausgxo2sd3-ausgxo2sd3.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\9mho1yjpxx-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\6r89d7e8t9-{0}-cosvhxvwiu-cosvhxvwiu.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\ak4z2j2073-{0}-ub07r2b239-ub07r2b239.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\i3x0hdxn10-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\znebvxfc0f-{0}-b7pk76d08c-b7pk76d08c.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\8xrc760s38-{0}-fsbi9cje9m-fsbi9cje9m.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\oc7oic3awl-{0}-rzd6atqjts-rzd6atqjts.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\ehvc9ih4y6-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\qw26h4xhwz-{0}-dxx9fxp4il-dxx9fxp4il.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\wv3jqqqaaw-{0}-jd9uben2k1-jd9uben2k1.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\kicnagcp9t-{0}-khv3u5hwcm-khv3u5hwcm.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\z0s9h8quqx-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\a9kbdnwyg7-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\1i6zfx612n-{0}-c2oey78nd0-c2oey78nd0.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\9elacuz0kq-{0}-tdbxkamptv-tdbxkamptv.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\y2igvad5nr-{0}-j5mq2jizvt-j5mq2jizvt.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\4fqz3a2qrp-{0}-06098lyss8-06098lyss8.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\24pgs2ho6b-{0}-nvvlpmu67g-nvvlpmu67g.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\f8xhcb8rim-{0}-s35ty4nyc5-s35ty4nyc5.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\2bmj13y3ac-{0}-pj5nd1wqec-pj5nd1wqec.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\kmfl2ud0sy-{0}-46ein0sx1k-46ein0sx1k.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\1z6h3213r1-{0}-v0zj4ognzu-v0zj4ognzu.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\2waenhqt17-{0}-37tfw0ft22-37tfw0ft22.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\j1m6jz3l4f-{0}-hrwsygsryq-hrwsygsryq.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\86rbkkx6op-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\y9o42djtfq-{0}-ft3s53vfgj-ft3s53vfgj.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\9yvcv5vmj5-{0}-6cfz1n2cew-6cfz1n2cew.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\nrxv0ntp0t-{0}-6pdc2jztkx-6pdc2jztkx.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\cvj0u5rp5w-{0}-493y06b0oq-493y06b0oq.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\zwtjpicvj8-{0}-iovd86k7lj-iovd86k7lj.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\l6163gsmk5-{0}-vr1egmr9el-vr1egmr9el.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\g5bcf3hv16-{0}-kbrnm935zg-kbrnm935zg.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\0pi19b31tk-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\yvmk9h28if-{0}-y7v9cxd14o-y7v9cxd14o.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\nih6z5pkcg-{0}-notf2xhcfb-notf2xhcfb.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\rp1bokc67z-{0}-h1s4sie4z3-h1s4sie4z3.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\8l7xnlgkm7-{0}-63fj8s7r0e-63fj8s7r0e.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\8ouvpikh1h-{0}-0j3bgjxly4-0j3bgjxly4.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\tsbblhxs1u-{0}-47otxtyo56-47otxtyo56.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\sspvmgtuql-{0}-4v8eqarkd7-4v8eqarkd7.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\r4u7q3dkif-{0}-356vix0kms-356vix0kms.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\izq7j5gag1-{0}-83jwlth58m-83jwlth58m.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\1mw9oee5k3-{0}-mrlpezrjn3-mrlpezrjn3.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\uaht99d3wt-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\4k8f2p6jfv-{0}-ag7o75518u-ag7o75518u.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\tbbyf0hasv-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\20fdwnujwy-{0}-0i3buxo5is-0i3buxo5is.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\nk94mnwxam-{0}-o1o13a6vjx-o1o13a6vjx.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\5d6z7ibatz-{0}-ttgo8qnofa-ttgo8qnofa.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\ooykrxm0nc-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\2eh22knh79-{0}-muycvpuwrr-muycvpuwrr.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\bkixvkz8id-{0}-87fc7y1x7t-87fc7y1x7t.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\429k6erl2y-{0}-mlv21k5csn-mlv21k5csn.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\i4kyqlyp8r-{0}-y0m90ajkdf-y0m90ajkdf.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\compressed\bt0c06t8fb-{0}-y0m90ajkdf-y0m90ajkdf.gz
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\staticwebassets.build.json
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\staticwebassets.build.json.cache
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\staticwebassets.development.json
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\swae.build.ex.cache
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\Fast Foo.942682D7.Up2Date
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\Fast Food Delievery.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\refint\Fast Food Delievery.dll
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\Fast Food Delievery.pdb
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\Fast Food Delievery.genruntimeconfig.cache
+G:\full stack diploma\c# exercise\Fast Food Delievery\obj\Debug\net9.0\ref\Fast Food Delievery.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\appsettings.Development.json
+I:\Fast Food Delievery\bin\Debug\net9.0\appsettings.json
+I:\Fast Food Delievery\bin\Debug\net9.0\Fast Food Delievery.staticwebassets.runtime.json
+I:\Fast Food Delievery\bin\Debug\net9.0\Fast Food Delievery.staticwebassets.endpoints.json
+I:\Fast Food Delievery\bin\Debug\net9.0\Fast Food Delievery.exe
+I:\Fast Food Delievery\bin\Debug\net9.0\Fast Food Delievery.deps.json
+I:\Fast Food Delievery\bin\Debug\net9.0\Fast Food Delievery.runtimeconfig.json
+I:\Fast Food Delievery\bin\Debug\net9.0\Fast Food Delievery.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Fast Food Delievery.pdb
+I:\Fast Food Delievery\bin\Debug\net9.0\Azure.Core.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Azure.Identity.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Humanizer.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Build.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Mono.TextTemplating.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Newtonsoft.Json.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\NuGet.Common.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\NuGet.Configuration.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\NuGet.Frameworks.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\NuGet.LibraryModel.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\NuGet.Packaging.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\NuGet.ProjectModel.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\NuGet.Protocol.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\NuGet.Versioning.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\System.ClientModel.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\System.CodeDom.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\System.Composition.Convention.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\System.Composition.Hosting.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\System.Composition.Runtime.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\System.Composition.TypedParts.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\System.Memory.Data.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\System.Runtime.Caching.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\af\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\ar\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\az\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\bg\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\cs\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\da\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\de\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\el\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\es\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\fa\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\fr\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\he\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\hr\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\hu\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\hy\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\id\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\is\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\it\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\ja\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\ku\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\lv\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\mt\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\nb\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\nl\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\pl\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\pt\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\ro\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\ru\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\sk\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\sl\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\sr\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\sv\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\tr\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\uk\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\vi\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+I:\Fast Food Delievery\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+I:\Fast Food Delievery\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+I:\Fast Food Delievery\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+I:\Fast Food Delievery\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+I:\Fast Food Delievery\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+I:\Fast Food Delievery\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+I:\Fast Food Delievery\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+I:\Fast Food Delievery\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+I:\Fast Food Delievery\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+I:\Fast Food Delievery\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+I:\Fast Food Delievery\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+I:\Fast Food Delievery\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+I:\Fast Food Delievery\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+I:\Fast Food Delievery\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+I:\Fast Food Delievery\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+I:\Fast Food Delievery\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+I:\Fast Food Delievery\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+I:\Fast Food Delievery\obj\Debug\net9.0\Fast Food Delievery.csproj.AssemblyReference.cache
+I:\Fast Food Delievery\obj\Debug\net9.0\rpswa.dswa.cache.json
+I:\Fast Food Delievery\obj\Debug\net9.0\Fast Food Delievery.GeneratedMSBuildEditorConfig.editorconfig
+I:\Fast Food Delievery\obj\Debug\net9.0\Fast Food Delievery.AssemblyInfoInputs.cache
+I:\Fast Food Delievery\obj\Debug\net9.0\Fast Food Delievery.AssemblyInfo.cs
+I:\Fast Food Delievery\obj\Debug\net9.0\Fast Food Delievery.csproj.CoreCompileInputs.cache
+I:\Fast Food Delievery\obj\Debug\net9.0\Fast Food Delievery.MvcApplicationPartsAssemblyInfo.cs
+I:\Fast Food Delievery\obj\Debug\net9.0\Fast Food Delievery.MvcApplicationPartsAssemblyInfo.cache
+I:\Fast Food Delievery\obj\Debug\net9.0\Fast Food Delievery.RazorAssemblyInfo.cache
+I:\Fast Food Delievery\obj\Debug\net9.0\Fast Food Delievery.RazorAssemblyInfo.cs
+I:\Fast Food Delievery\obj\Debug\net9.0\Fast Food Delievery.sourcelink.json
+I:\Fast Food Delievery\obj\Debug\net9.0\rjimswa.dswa.cache.json
+I:\Fast Food Delievery\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+I:\Fast Food Delievery\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+I:\Fast Food Delievery\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+I:\Fast Food Delievery\obj\Debug\net9.0\scopedcss\bundle\Fast Food Delievery.styles.css
+I:\Fast Food Delievery\obj\Debug\net9.0\scopedcss\projectbundle\Fast Food Delievery.bundle.scp.css
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\ofa40bqe71-{0}-b9sayid5wm-b9sayid5wm.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\j9swiz3yzq-{0}-90yqlj465b-90yqlj465b.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\vltxs1u3vm-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\14ipv7q33s-{0}-bqjiyaj88i-bqjiyaj88i.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\rh65p086id-{0}-c2jlpeoesf-c2jlpeoesf.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\eb27mqwgz2-{0}-erw9l3u2r3-erw9l3u2r3.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\9glsckmvxo-{0}-aexeepp0ev-aexeepp0ev.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\hh8ihyobdx-{0}-d7shbmvgxk-d7shbmvgxk.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\bww8ud00yd-{0}-ausgxo2sd3-ausgxo2sd3.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\edcrak57d7-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\sf8kf2lula-{0}-cosvhxvwiu-cosvhxvwiu.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\3tzsqhslk9-{0}-ub07r2b239-ub07r2b239.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\oxk5o6czdw-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\k8b25g0zwc-{0}-b7pk76d08c-b7pk76d08c.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\8axix7wldr-{0}-fsbi9cje9m-fsbi9cje9m.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\d5z9sfpxbi-{0}-rzd6atqjts-rzd6atqjts.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\u8428c4e9i-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\tg53r17ghy-{0}-dxx9fxp4il-dxx9fxp4il.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\nlrl0f3xs3-{0}-jd9uben2k1-jd9uben2k1.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\1fc4q00scq-{0}-khv3u5hwcm-khv3u5hwcm.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\8xykfy6qmd-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\vsrbd71spn-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\cynp17w084-{0}-c2oey78nd0-c2oey78nd0.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\7o8oyvng68-{0}-tdbxkamptv-tdbxkamptv.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\h9vwtoirpy-{0}-j5mq2jizvt-j5mq2jizvt.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\o5k23vqhrk-{0}-06098lyss8-06098lyss8.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\iznc766avz-{0}-nvvlpmu67g-nvvlpmu67g.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\ns4583i71s-{0}-s35ty4nyc5-s35ty4nyc5.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\47012z8l2l-{0}-pj5nd1wqec-pj5nd1wqec.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\4vzefxwp2m-{0}-46ein0sx1k-46ein0sx1k.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\bh4v3mdph9-{0}-v0zj4ognzu-v0zj4ognzu.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\l186vlgaag-{0}-37tfw0ft22-37tfw0ft22.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\rsc7qacj1u-{0}-hrwsygsryq-hrwsygsryq.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\z408qb6q7a-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\qfr28sqcy1-{0}-ft3s53vfgj-ft3s53vfgj.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\0k1i85ntyh-{0}-6cfz1n2cew-6cfz1n2cew.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\xa379ftczi-{0}-6pdc2jztkx-6pdc2jztkx.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\lr5hmrr0j7-{0}-493y06b0oq-493y06b0oq.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\ivy2s9gwh5-{0}-iovd86k7lj-iovd86k7lj.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\higufxz8op-{0}-vr1egmr9el-vr1egmr9el.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\s3tglgz8hr-{0}-kbrnm935zg-kbrnm935zg.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\vw9sls9bhj-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\ym8tkpcl2i-{0}-y7v9cxd14o-y7v9cxd14o.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\zzna4nrm5w-{0}-notf2xhcfb-notf2xhcfb.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\igscs4x0yk-{0}-h1s4sie4z3-h1s4sie4z3.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\zap00c0tb5-{0}-63fj8s7r0e-63fj8s7r0e.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\pogzkicjpz-{0}-0j3bgjxly4-0j3bgjxly4.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\j3hwsq15kh-{0}-47otxtyo56-47otxtyo56.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\q3naettu8c-{0}-4v8eqarkd7-4v8eqarkd7.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\ldxy2n3w6q-{0}-356vix0kms-356vix0kms.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\ypthv7q62w-{0}-83jwlth58m-83jwlth58m.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\t6e3b82hrf-{0}-mrlpezrjn3-mrlpezrjn3.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\uocis9wxbx-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\2tikzqlmtu-{0}-ag7o75518u-ag7o75518u.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\9muusbdg0a-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\tpsq5dibur-{0}-0i3buxo5is-0i3buxo5is.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\t0qo7o574p-{0}-o1o13a6vjx-o1o13a6vjx.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\b9lhb08218-{0}-ttgo8qnofa-ttgo8qnofa.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\a3ygkwa5zy-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\nezrqnk58p-{0}-muycvpuwrr-muycvpuwrr.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\v0zgfp0y55-{0}-87fc7y1x7t-87fc7y1x7t.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\yfc7ypekbg-{0}-mlv21k5csn-mlv21k5csn.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\91pfxm88hs-{0}-b9sayid5wm-b9sayid5wm.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\uqfkvcqwf6-{0}-61n19gt1b8-61n19gt1b8.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\raz00bw2tc-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\ks7zfq8zu8-{0}-bqjiyaj88i-bqjiyaj88i.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\v6n0xt5hsy-{0}-c2jlpeoesf-c2jlpeoesf.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\dfhk0i3b7t-{0}-erw9l3u2r3-erw9l3u2r3.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\59cuz8r7cp-{0}-aexeepp0ev-aexeepp0ev.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\g6smi91776-{0}-d7shbmvgxk-d7shbmvgxk.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\oy1b3wzjs3-{0}-ausgxo2sd3-ausgxo2sd3.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\9mho1yjpxx-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\6r89d7e8t9-{0}-cosvhxvwiu-cosvhxvwiu.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\ak4z2j2073-{0}-ub07r2b239-ub07r2b239.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\i3x0hdxn10-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\znebvxfc0f-{0}-b7pk76d08c-b7pk76d08c.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\8xrc760s38-{0}-fsbi9cje9m-fsbi9cje9m.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\oc7oic3awl-{0}-rzd6atqjts-rzd6atqjts.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\ehvc9ih4y6-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\qw26h4xhwz-{0}-dxx9fxp4il-dxx9fxp4il.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\wv3jqqqaaw-{0}-jd9uben2k1-jd9uben2k1.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\kicnagcp9t-{0}-khv3u5hwcm-khv3u5hwcm.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\z0s9h8quqx-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\a9kbdnwyg7-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\1i6zfx612n-{0}-c2oey78nd0-c2oey78nd0.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\9elacuz0kq-{0}-tdbxkamptv-tdbxkamptv.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\y2igvad5nr-{0}-j5mq2jizvt-j5mq2jizvt.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\4fqz3a2qrp-{0}-06098lyss8-06098lyss8.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\24pgs2ho6b-{0}-nvvlpmu67g-nvvlpmu67g.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\f8xhcb8rim-{0}-s35ty4nyc5-s35ty4nyc5.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\2bmj13y3ac-{0}-pj5nd1wqec-pj5nd1wqec.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\kmfl2ud0sy-{0}-46ein0sx1k-46ein0sx1k.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\1z6h3213r1-{0}-v0zj4ognzu-v0zj4ognzu.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\2waenhqt17-{0}-37tfw0ft22-37tfw0ft22.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\j1m6jz3l4f-{0}-hrwsygsryq-hrwsygsryq.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\86rbkkx6op-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\y9o42djtfq-{0}-ft3s53vfgj-ft3s53vfgj.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\9yvcv5vmj5-{0}-6cfz1n2cew-6cfz1n2cew.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\nrxv0ntp0t-{0}-6pdc2jztkx-6pdc2jztkx.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\cvj0u5rp5w-{0}-493y06b0oq-493y06b0oq.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\zwtjpicvj8-{0}-iovd86k7lj-iovd86k7lj.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\l6163gsmk5-{0}-vr1egmr9el-vr1egmr9el.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\g5bcf3hv16-{0}-kbrnm935zg-kbrnm935zg.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\0pi19b31tk-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\yvmk9h28if-{0}-y7v9cxd14o-y7v9cxd14o.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\nih6z5pkcg-{0}-notf2xhcfb-notf2xhcfb.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\rp1bokc67z-{0}-h1s4sie4z3-h1s4sie4z3.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\8l7xnlgkm7-{0}-63fj8s7r0e-63fj8s7r0e.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\8ouvpikh1h-{0}-0j3bgjxly4-0j3bgjxly4.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\tsbblhxs1u-{0}-47otxtyo56-47otxtyo56.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\sspvmgtuql-{0}-4v8eqarkd7-4v8eqarkd7.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\r4u7q3dkif-{0}-356vix0kms-356vix0kms.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\izq7j5gag1-{0}-83jwlth58m-83jwlth58m.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\1mw9oee5k3-{0}-mrlpezrjn3-mrlpezrjn3.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\uaht99d3wt-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\4k8f2p6jfv-{0}-ag7o75518u-ag7o75518u.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\tbbyf0hasv-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\20fdwnujwy-{0}-0i3buxo5is-0i3buxo5is.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\nk94mnwxam-{0}-o1o13a6vjx-o1o13a6vjx.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\5d6z7ibatz-{0}-ttgo8qnofa-ttgo8qnofa.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\ooykrxm0nc-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\2eh22knh79-{0}-muycvpuwrr-muycvpuwrr.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\bkixvkz8id-{0}-87fc7y1x7t-87fc7y1x7t.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\429k6erl2y-{0}-mlv21k5csn-mlv21k5csn.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\i4kyqlyp8r-{0}-y0m90ajkdf-y0m90ajkdf.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\compressed\bt0c06t8fb-{0}-y0m90ajkdf-y0m90ajkdf.gz
+I:\Fast Food Delievery\obj\Debug\net9.0\staticwebassets.build.json
+I:\Fast Food Delievery\obj\Debug\net9.0\staticwebassets.build.json.cache
+I:\Fast Food Delievery\obj\Debug\net9.0\staticwebassets.development.json
+I:\Fast Food Delievery\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+I:\Fast Food Delievery\obj\Debug\net9.0\swae.build.ex.cache
+I:\Fast Food Delievery\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+I:\Fast Food Delievery\obj\Debug\net9.0\Fast Foo.942682D7.Up2Date
+I:\Fast Food Delievery\obj\Debug\net9.0\Fast Food Delievery.dll
+I:\Fast Food Delievery\obj\Debug\net9.0\refint\Fast Food Delievery.dll
+I:\Fast Food Delievery\obj\Debug\net9.0\Fast Food Delievery.pdb
+I:\Fast Food Delievery\obj\Debug\net9.0\Fast Food Delievery.genruntimeconfig.cache
+I:\Fast Food Delievery\obj\Debug\net9.0\ref\Fast Food Delievery.dll
