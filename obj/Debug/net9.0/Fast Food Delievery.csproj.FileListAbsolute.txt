@@ -430,6 +430,8 @@ I:\Fast Food Delievery\bin\Debug\net9.0\Fast Food Delievery.pdb
 I:\Fast Food Delievery\bin\Debug\net9.0\Azure.Core.dll
 I:\Fast Food Delievery\bin\Debug\net9.0\Azure.Identity.dll
 I:\Fast Food Delievery\bin\Debug\net9.0\Humanizer.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
 I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
@@ -459,7 +461,18 @@ I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
 I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
 I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
 I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
 I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Identity.Client.dll
 I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
 I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
@@ -839,16 +852,3 @@ I:\Fast Food Delievery\obj\Debug\net9.0\refint\Fast Food Delievery.dll
 I:\Fast Food Delievery\obj\Debug\net9.0\Fast Food Delievery.pdb
 I:\Fast Food Delievery\obj\Debug\net9.0\Fast Food Delievery.genruntimeconfig.cache
 I:\Fast Food Delievery\obj\Debug\net9.0\ref\Fast Food Delievery.dll
-I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
-I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
-I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
-I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
-I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
-I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
-I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
-I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
-I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
-I:\Fast Food Delievery\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll

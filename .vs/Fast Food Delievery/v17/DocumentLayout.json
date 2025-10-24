@@ -46,8 +46,7 @@
               "RelativeToolTip": "Areas\\Customer\\Views\\Home\\Details.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAADIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-20T19:13:07.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T19:13:07.398Z"
             },
             {
               "$type": "Document",
@@ -96,8 +95,7 @@
               "RelativeToolTip": "Areas\\Customer\\Controllers\\HomeController.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAwwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T20:03:15.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T20:03:15.629Z"
             }
           ]
         }

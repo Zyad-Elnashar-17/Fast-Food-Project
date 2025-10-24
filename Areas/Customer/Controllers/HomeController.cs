@@ -1,6 +1,7 @@
 ﻿using Fast_Food_Delievery.Data;
 using Fast_Food_Delievery.Models;
 using Fast_Food_Delievery.ViewModel;
+using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -36,8 +37,12 @@ namespace Fast_Food_Delievery.Areas.Customer.Controllers
                 .Include(c => c.Category)
                 .Include(s => s.SubCategory)
                 .Where(x => x.Id == id)
-                .FirstOrDefaultAsync();
-           var cart = new Cart()
+                .FirstOrDefaultAsync(x => x.Id == id);
+
+                if (item == null)
+                return NotFound();
+
+            var cart = new Cart()
             {
                 Item = item,
                 ItemId = item.Id,
@@ -46,65 +51,50 @@ namespace Fast_Food_Delievery.Areas.Customer.Controllers
             ;
             return View(cart);
         }
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        [Authorize]
-        public async Task<IActionResult> Details(Cart cart)
-        {
-            if (ModelState.IsValid)
-            {
-                var ClaimsIdentity = (ClaimsIdentity)this.User.Identity;
-                var Claim = ClaimsIdentity.FindFirst(ClaimTypes.NameIdentifier);
-                cart.UserId = Claim.Value;
-
-
-
-                var cartFromDb = await _context.Carts
-                    .Where(c => c.UserId == cart.UserId && c.ItemId == cart.ItemId)
-                    .FirstOrDefaultAsync();
-
-                if (cartFromDb == null)
-                {
-                    _context.Carts.Add(cart);
-                }
-                else
-                {
-                    cartFromDb.Count += cart.Count;
-                }
-                 _context.SaveChanges();
-                return RedirectToAction("Index");
-
-            }
-            return RedirectToAction("Index");
-        }
 
         [HttpPost]
         [Authorize]
-        public async Task<IActionResult> AddToCart(int id)
+        public async Task<IActionResult> AddToCart(int id, int count = 1)
         {
             var claimsIdentity = (ClaimsIdentity)User.Identity;
-            var claim = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier);
+            var claim = claimsIdentity?.FindFirst(ClaimTypes.NameIdentifier);
+
+            if (claim == null)
+            {
+                return Challenge(new AuthenticationProperties
+                {
+                    RedirectUri = Url.Action("Details", new { id })
+                }, "Identity.Application");
+            }
+
             var userId = claim.Value;
+            var item = await _context.Items.FindAsync(id);
+            if (item == null)
+                return NotFound();
 
             var cartItem = await _context.Carts
                 .FirstOrDefaultAsync(c => c.UserId == userId && c.ItemId == id);
 
             if (cartItem == null)
             {
-                cartItem = new Cart { UserId = userId, ItemId = id, Count = 1 };
+                cartItem = new Cart { UserId = userId, ItemId = id, Count = count };
                 _context.Carts.Add(cartItem);
             }
             else
             {
-                cartItem.Count += 1;
+                cartItem.Count += count;
             }
 
             await _context.SaveChangesAsync();
 
-            var count = await _context.Carts.Where(c => c.UserId == userId).SumAsync(c => c.Count);
+            var totalCount = await _context.Carts
+                .Where(c => c.UserId == userId)
+                .SumAsync(c => c.Count);
 
-            return Json(new { count });
+            return Json(new { count = totalCount });
         }
+
+
 
     }
 }
