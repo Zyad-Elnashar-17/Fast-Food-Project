@@ -9,6 +9,7 @@ using Microsoft.AspNetCore.Authorization;
 namespace Fast_Food_Delievery.Areas.Customer.Controllers
 {
     [Area("Customer")]
+    [Authorize]
     public class CartController : Controller
     {
         private readonly AppDbContext _context;
@@ -20,7 +21,7 @@ namespace Fast_Food_Delievery.Areas.Customer.Controllers
             _context = context;
         }
 
-        [Authorize]
+        
         public IActionResult Index()
         {
             details = new CartOrderViewModel()
@@ -54,5 +55,52 @@ namespace Fast_Food_Delievery.Areas.Customer.Controllers
           
             return View(details);
         }
+
+        public async Task<IActionResult> Plus(int cartId)
+        {
+            var cart = await _context.Carts.FirstOrDefaultAsync(c => c.Id == cartId);
+
+            if (cart != null)
+            {
+                cart.Count += 1;
+                await _context.SaveChangesAsync();
+            }
+
+            return RedirectToAction(nameof(Index));
+        }
+
+        public async Task<IActionResult> Minus(int cartId)
+        {
+            var cart = await _context.Carts.FirstOrDefaultAsync(c => c.Id == cartId);
+
+            if (cart != null)
+            {
+                if (cart.Count > 1)
+                {
+                    cart.Count -= 1;
+                }
+                else
+                {
+                    _context.Carts.Remove(cart);
+                }
+
+                await _context.SaveChangesAsync();
+            }
+
+            return RedirectToAction(nameof(Index));
+        }
+
+        public async Task<IActionResult> Remove(int cartId)
+        {
+            var cart = await _context.Carts.FirstOrDefaultAsync(c => c.Id == cartId);
+            if (cart != null)
+            {
+                _context.Carts.Remove(cart);
+                await _context.SaveChangesAsync();
+            }
+
+            return RedirectToAction(nameof(Index));
+        }
+
     }
 }
