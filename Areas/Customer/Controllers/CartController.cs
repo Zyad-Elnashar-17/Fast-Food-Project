@@ -102,5 +102,27 @@ namespace Fast_Food_Delievery.Areas.Customer.Controllers
             return RedirectToAction(nameof(Index));
         }
 
+        public IActionResult Checkout()
+        {
+            var claimsIdentity = (ClaimsIdentity)User.Identity;
+            var claim = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier);
+
+            if (claim == null)
+                return RedirectToAction("Login", "Account", new { area = "Identity" });
+
+            var vm = new CartOrderViewModel
+            {
+                OrderHeader = new OrderHeader(),
+                ListOfCart = _context.Carts
+                    .Where(c => c.UserId == claim.Value)
+                    .Include(c => c.Item)
+                    .ToList()
+            };
+
+            vm.OrderHeader.OrderTotal = vm.ListOfCart.Sum(x => x.Item.Price * x.Count);
+
+            return View(vm);
+        }
+
     }
 }

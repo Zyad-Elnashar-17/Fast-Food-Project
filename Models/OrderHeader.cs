@@ -14,6 +14,7 @@ namespace Fast_Food_Delievery.Models
         public string TransactionId { get; set; } = null!;
         public string OrderStatus { get; set; } = null!;
         public string PaymentStatus { get; set; } = null!;
+        public string PaymentMethod { get; set; } = null!;
         public string Name { get; set; } = null!;
         public string PhoneNumber { get; set; } = null!;
         public string UserId { get; set; } = null!;

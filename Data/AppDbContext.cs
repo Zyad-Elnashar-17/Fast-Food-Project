@@ -93,5 +93,5 @@ namespace Fast_Food_Delievery.Data
         public DbSet<Voucher> Vouchers { get; set; }
         public DbSet<SubCategory> SubCategories { get; set; }
 
-     }
+        }
 }

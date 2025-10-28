@@ -19,9 +19,6 @@ public class ItemViewModel
 
     [Display(Name = "Sub Category")]
     public int? SubCategoryId { get; set; }
-    // دي الصورة اللي جاية من المستخدم لما يرفع جديدة
     public IFormFile? ImageFile { get; set; }
-
-    // ودي المسار القديم اللي متخزن في الداتابيز
     public string? ExistingImageUrl { get; set; }
 }

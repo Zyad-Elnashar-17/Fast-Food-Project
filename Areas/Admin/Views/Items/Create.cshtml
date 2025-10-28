@@ -46,14 +46,12 @@
                 <span asp-validation-for="SubCategoryId" class="text-danger"></span>
             </div>
 
-            <!-- ✅ Upload Image -->
             <div class="form-group mb-3">
                 <label asp-for="ImageFile" class="control-label"></label>
                 <input asp-for="ImageFile" type="file" accept="image/*" class="form-control" id="imageInput" />
                 <span asp-validation-for="ImageFile" class="text-danger"></span>
             </div>
 
-            <!-- ✅ Preview -->
             <div class="form-group mb-3 text-center">
                 <img id="previewImage" src="#" alt="Image Preview" style="max-width: 250px; display: none; border-radius: 10px; border: 1px solid #ccc;" />
             </div>
@@ -72,7 +70,6 @@
     }
 
     <script>
-        // ✅ Show image preview when selected
         document.getElementById("imageInput").addEventListener("change", function (event) {
             const file = event.target.files[0];
             const preview = document.getElementById("previewImage");

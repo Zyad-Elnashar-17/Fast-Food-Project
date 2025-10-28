@@ -75,7 +75,6 @@ namespace Fast_Food_Delievery.Areas.Admin.Controllers
             return View(model);
         }
 
-        // ===================== EDIT =====================
         [HttpGet]
         public async Task<IActionResult> Edit(string id)
         {
@@ -127,7 +126,6 @@ namespace Fast_Food_Delievery.Areas.Admin.Controllers
             }
             return RedirectToAction("Index");
         }
-            // ===================== DELETE =====================
             [HttpGet]
             public async Task<IActionResult> Delete(string id)
             {

@@ -20,7 +20,6 @@ namespace Fast_Food_Delievery.Areas.Admin.Controllers
             _webHostEnvironment = webHostEnvironment;
         }
 
-        // ------------------ INDEX ------------------
         [HttpGet]
         public IActionResult Index()
         {
@@ -32,7 +31,6 @@ namespace Fast_Food_Delievery.Areas.Admin.Controllers
             return View(items);
         }
 
-        // ------------------ CREATE (GET) ------------------
         [HttpGet]
         public IActionResult Create()
         {
@@ -41,7 +39,6 @@ namespace Fast_Food_Delievery.Areas.Admin.Controllers
             return View(new ItemViewModel());
         }
 
-        // ------------------ CREATE (POST) ------------------
         [HttpPost]
         public async Task<IActionResult> Create(ItemViewModel vm)
         {
@@ -89,7 +86,6 @@ namespace Fast_Food_Delievery.Areas.Admin.Controllers
             return RedirectToAction("Index");
         }
 
-        // ------------------ EDIT (GET) ------------------
         [HttpGet]
         public IActionResult Edit(int id)
         {
@@ -114,7 +110,6 @@ namespace Fast_Food_Delievery.Areas.Admin.Controllers
             return View(vm);
         }
 
-        // ------------------ EDIT (POST) ------------------
         [HttpPost]
         public async Task<IActionResult> Edit(ItemViewModel vm)
         {
@@ -154,7 +149,6 @@ namespace Fast_Food_Delievery.Areas.Admin.Controllers
             return RedirectToAction(nameof(Index));
         }
 
-        // ------------------ DELETE (GET) ------------------
         [HttpGet]
         public IActionResult Delete(int id)
         {
@@ -169,7 +163,6 @@ namespace Fast_Food_Delievery.Areas.Admin.Controllers
             return View(item);
         }
 
-        // ------------------ DELETE (POST) ------------------
         [HttpPost, ActionName("Delete")]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
@@ -190,7 +183,6 @@ namespace Fast_Food_Delievery.Areas.Admin.Controllers
             return RedirectToAction(nameof(Index));
         }
 
-        // ------------------ SAVE IMAGE METHOD ------------------
         private async Task<string> SaveImageAsync(IFormFile image)
         {
             var uploadPath = Path.Combine(_webHostEnvironment.WebRootPath, FileSettings.ImagesPath.TrimStart('/'));
