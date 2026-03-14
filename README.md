@@ -67,8 +67,6 @@ Follow these steps to run the project locally.
 
 1) Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-
 --------------------------------------------------
 
 2) Open the Project
@@ -93,9 +91,6 @@ Update the connection string:
 
 Open:
 Tools → NuGet Package Manager → Package Manager Console
-
-Select:
-Portfolio.DataAccess as the Default Project
 
 Run the command:
 
