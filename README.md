@@ -1,33 +1,112 @@
-⚙️ Installation and Operation You can follow these steps to run the project on your local machine:
+Fast Food Restaurant Web Application
 
-Clone the project
+A full-stack Fast Food Restaurant Web Application built with ASP.NET Core MVC.
+The system allows customers to browse meals, view prices, add items to the cart, and place orders easily.
 
-Open with Visual Studio:
+The project also includes an Admin Dashboard that allows administrators to manage meals, categories, employees, and customer orders.
 
-Open the .sln file in the project folder using Visual Studio.
+--------------------------------------------------
 
-Configure the database connection:
+FEATURES
 
-Open the appsettings.json file inside the Portfolio.Web project.
+Customer Features
+- Browse restaurant menu with prices
+- View meal details
+- Add meals to cart
+- Update meal quantities
+- Remove items from cart
+- Register and login before placing orders
+- Place orders using Cash on Delivery
+- View and manage cart before confirming the order
 
-Update the connection information in the ConnectionStrings section according to your SQL Server credentials.
+Admin Dashboard Features
+- Manage Employees's Accounts 
+- Manage Roles and Permissions
+- Add / Edit / Delete Meals
+- Manage Meal Categories
+- Upload Meal Images
+- View all Customer Orders
+--------------------------------------------------
 
-"ConnectionStrings": { "DefaultConnection": "Server=YOUR_SERVER_NAME;Database=Ecommerce;Trusted_Connection=True;TrustServerCertificate=True;" }
+ADMIN ACCESS
 
-Create the Database (Migrations):
+Email:
+Admin@gmail.com
 
-Visual Studio'da Tools > NuGet Package Manager > Package Manager Console'u açın.
+Password:
+Admin@123
 
-In the console that opens, select Portfolio.DataAccess as the Default project.
+--------------------------------------------------
 
-Create the database and add the tables by running the following command:
+TECHNOLOGIES USED
+
+- ASP.NET Core MVC
+- Entity Framework Core
+- SQL Server
+- Bootstrap
+- JavaScript
+- HTML
+- CSS
+
+-------------------------------------------------
+
+DEPENDENCIES
+
+The project uses the following main NuGet packages:
+
+- Microsoft.EntityFrameworkCore
+- Microsoft.EntityFrameworkCore.SqlServer
+- Microsoft.EntityFrameworkCore.Tools
+- Microsoft.AspNetCore.Identity.EntityFrameworkCore
+
+--------------------------------------------------
+
+INSTALLATION AND SETUP
+
+Follow these steps to run the project locally.
+
+1) Clone the repository
+
+git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+
+--------------------------------------------------
+
+2) Open the Project
+
+Open the .sln file using Visual Studio.
+
+--------------------------------------------------
+
+3) Configure Database Connection
+
+Open the file appsettings.json
+
+Update the connection string:
+
+"ConnectionStrings": {
+ "DefaultConnection": "Server=YOUR_SERVER_NAME;Database=FastFoodRestaurant;Trusted_Connection=True;TrustServerCertificate=True;"
+}
+
+--------------------------------------------------
+
+4) Create the Database
+
+Open:
+Tools → NuGet Package Manager → Package Manager Console
+
+Select:
+Portfolio.DataAccess as the Default Project
+
+Run the command:
 
 Update-Database
 
-Start the Project:
+This will create the database and tables automatically using Entity Framework Core migrations.
+
+--------------------------------------------------
+
+5) Run the Project
 
 Set Portfolio.Web as the Startup Project.
 
-To run the project, press F5 or click the Start button.
-
-📄 License This project is licensed under the MIT License. See the LICENSE file for details.
+Then press F5 to run the application.
